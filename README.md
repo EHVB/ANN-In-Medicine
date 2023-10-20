@@ -1,2 +1,6 @@
 # ANN-In-Medicine
-Artificial Neural Networks in Medicine (SBE4025) Coursework
+
+
+### Assignments
+- Assignment 1 
+  - [Tensorflow Basics](./Assignment_1/)
