@@ -6,3 +6,5 @@
   - [Tensorflow Basics](./Assignment_1/)
 - Assignment 2
   - [Neural Networks](./Assignment_2/)
+- Assignment 3
+  - [Autoencoders](./Assignment_3/)
