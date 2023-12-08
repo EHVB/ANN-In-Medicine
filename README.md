@@ -8,3 +8,5 @@
   - [Neural Networks](./Assignment_2/)
 - Assignment 3
   - [Autoencoders](./Assignment_3/)
+- Assignment 4
+  - [RNN](./Assignment_4/)
