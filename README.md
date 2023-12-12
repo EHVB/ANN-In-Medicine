@@ -10,3 +10,5 @@
   - [Autoencoders](./Assignment_3/)
 - Assignment 4
   - [RNN](./Assignment_4/)
+- Assignment 5
+  - [U-Net and CNN](./Assignment_5/)
